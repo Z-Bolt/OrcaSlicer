@@ -6,7 +6,7 @@
     "machine_tech": "FFF",
     "family": "Z-Bolt",
     "bed_model": "Z-Bolt_S300_buildplate_model.stl",
-    "bed_texture": "Z-Bolt_S300_buildplate_texture.png",
+    "bed_texture": "Z-Bolt_buildplate_texture.png",
     "hotend_model": "",
-	"default_materials": "Z-Bolt Generic ABS;Z-Bolt Generic PLA;Z-Bolt Generic PLA-CF;Z-Bolt Generic PETG;Z-Bolt Generic TPU;Z-Bolt Generic ASA;Z-Bolt Generic PC;Z-Bolt Generic PVA;Z-Bolt Generic PA;Z-Bolt Generic PA-CF"
+	"default_materials": "Z-Bolt ABS;Z-Bolt PETG;Z-Bolt PLA;Z-Bolt Generic ABS;Z-Bolt Generic PLA;Z-Bolt Generic PLA-CF;Z-Bolt Generic PETG;Z-Bolt Generic TPU;Z-Bolt Generic ASA;Z-Bolt Generic PC;Z-Bolt Generic PVA;Z-Bolt Generic PA;Z-Bolt Generic PA-CF"
 }

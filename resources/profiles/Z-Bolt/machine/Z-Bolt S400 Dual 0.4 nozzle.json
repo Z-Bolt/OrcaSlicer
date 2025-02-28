@@ -1,9 +1,9 @@
 {
 	"type": "machine",
-	"name": "Z-Bolt S300 Dual 0.4 nozzle",
-	"inherits": "Z-Bolt S300 0.4 nozzle",
+	"name": "Z-Bolt S400 Dual 0.4 nozzle",
+	"inherits": "Z-Bolt S400 0.4 nozzle",
 	"from": "system",
-	"setting_id": "GM004",
+	"setting_id": "GM014",
 	"printer_settings_id": "Z-Bolt",
 	"instantiation": "true",
 	"manual_filament_change": "0",
@@ -11,9 +11,9 @@
 	"nozzle_diameter": [
 		"0.4", "0.4"
 	],
-	"printer_model": "Z-Bolt S300 Dual",
+	"printer_model": "Z-Bolt S400 Dual",
 	"printer_variant": "0.4",
-	"default_print_profile": "0.20mm Standard @Z-Bolt S300",
+	"default_print_profile": "0.20mm Standard @Z-Bolt S400",
 	"max_layer_height": [
 		"0.28"
 	],
