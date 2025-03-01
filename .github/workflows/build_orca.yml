@@ -214,8 +214,8 @@ jobs:
         if: github.ref == 'refs/heads/main' && inputs.os == 'windows-latest'
         uses: WebFreak001/deploy-nightly@v3.2.0
         with:
-          upload_url: https://uploads.github.com/repos/Z-Bolt/OrcaSlicer/releases/202480941/assets{?name,label}
-          release_id: 202480941
+          upload_url: https://uploads.github.com/repos/Z-Bolt/OrcaSlicer/releases/203167855/assets{?name,label}
+          release_id: 203167855
           asset_path: ${{ github.workspace }}/build/OrcaSlicer_Windows_${{ env.ver }}_portable.zip
           asset_name: OrcaSlicer_Windows_${{ env.ver }}_portable.zip
           asset_content_type: application/x-zip-compressed
@@ -225,8 +225,8 @@ jobs:
         if: github.ref == 'refs/heads/main' && inputs.os == 'windows-latest'
         uses: WebFreak001/deploy-nightly@v3.2.0
         with:
-          upload_url: https://uploads.github.com/repos/Z-Bolt/OrcaSlicer/releases/202480941/assets{?name,label}
-          release_id: 202480941
+          upload_url: https://uploads.github.com/repos/Z-Bolt/OrcaSlicer/releases/203167855/assets{?name,label}
+          release_id: 203167855
           asset_path: ${{ github.workspace }}/build/OrcaSlicer_Windows_Installer_${{ env.ver }}.exe
           asset_name: OrcaSlicer_Windows_Installer_${{ env.ver }}.exe
           asset_content_type: application/x-msdownload
