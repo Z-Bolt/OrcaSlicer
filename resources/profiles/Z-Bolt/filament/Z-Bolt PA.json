@@ -1,37 +1,52 @@
 {
     "type": "filament",
-    "name": "Z-Bolt PLA",
-    "inherits": "fdm_filament_pla",
+    "name": "Z-Bolt PA",
+    "inherits": "fdm_filament_pa",
     "from": "system",
     "instantiation": "true",
-    "filament_id": "GFL100",
-    "setting_id": "GFSL100",
+    "filament_id": "GFL103",
+    "setting_id": "GFSL103",
     "filament_max_volumetric_speed": [
-        "21"
+        "10"
+    ],
+    "fan_cooling_layer_time": [
+        "5"
+    ],
+    "fan_max_speed": [
+        "30"
     ],
     "fan_min_speed": [
-        "100"
+        "10"
     ],
-    "full_fan_speed_layer": [
-        "4"
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "overhang_fan_speed": [
+        "30"
+    ],
+    "overhang_fan_threshold": [
+        "0%"
     ],
     "hot_plate_temp": [
-        "60"
+        "140"
     ],
     "hot_plate_temp_initial_layer": [
-        "60"
+        "140"
     ],
     "nozzle_temperature": [
-        "215"
+        "265"
     ],
     "nozzle_temperature_initial_layer": [
-        "215"
+        "265"
     ],
     "textured_plate_temp": [
-        "60"
+        "130"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "140"
+    ],
+    "chamber_temperatures": [
+        "80"
     ],
     "compatible_printers": [
         "Z-Bolt S300 0.4 nozzle",
