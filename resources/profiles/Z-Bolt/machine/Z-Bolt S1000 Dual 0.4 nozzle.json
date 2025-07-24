@@ -12,6 +12,12 @@
 		"0.4", "0.4"
 	],
 	"printer_model": "Z-Bolt S1000 Dual",
+	"printable_area": [
+		"0x0",
+		"985x0",
+		"985x1000",
+		"0x1000"
+	],
 	"printer_variant": "0.4",
 	"default_print_profile": "0.20mm Standard @Z-Bolt S1000",
 	"max_layer_height": [
