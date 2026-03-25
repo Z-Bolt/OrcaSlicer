@@ -13,7 +13,6 @@
     "inner_wall_acceleration": "2000",
     "inner_wall_speed": "100",
     "internal_bridge_flow": "2",
-    "is_custom_defined": "0",
     "max_volumetric_extrusion_rate_slope": "500",
     "max_volumetric_extrusion_rate_slope_segment_length": "0.5",
     "outer_wall_acceleration": "300",

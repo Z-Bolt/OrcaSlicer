@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Z-Bolt PETG @base",
+    "name": "Z-Bolt PETG",
     "inherits": "fdm_filament_pet",
     "from": "system",
     "setting_id": "GFSL300",

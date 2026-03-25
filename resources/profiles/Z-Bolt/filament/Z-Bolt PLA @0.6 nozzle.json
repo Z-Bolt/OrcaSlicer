@@ -1,7 +1,7 @@
 {
     "type": "filament",
     "name": "Z-Bolt PLA @0.6 nozzle",
-    "inherits": "Z-Bolt PLA @base",
+    "inherits": "Z-Bolt PLA",
     "from": "system",
     "setting_id": "GFSL106",
     "filament_id": "GFL106",

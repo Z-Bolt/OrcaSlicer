@@ -16,7 +16,6 @@
     "inner_wall_speed": "60",
     "internal_bridge_flow": "2",
     "internal_solid_infill_speed": "80",
-    "is_custom_defined": "0",
     "max_volumetric_extrusion_rate_slope_segment_length": "0.5",
     "outer_wall_acceleration": "300",
     "outer_wall_speed": "10",

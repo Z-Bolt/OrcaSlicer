@@ -1,7 +1,7 @@
 {
     "type": "filament",
     "name": "Z-Bolt ABS @0.8 nozzle",
-    "inherits": "Z-Bolt ABS @base",
+    "inherits": "Z-Bolt ABS",
     "from": "system",
     "setting_id": "GFSL208",
     "filament_id": "GFL208",

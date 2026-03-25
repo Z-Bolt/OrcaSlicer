@@ -1,7 +1,7 @@
 {
     "type": "filament",
     "name": "Z-Bolt PETG @0.4 nozzle",
-    "inherits": "Z-Bolt PETG @base",
+    "inherits": "Z-Bolt PETG",
     "from": "system",
     "setting_id": "GFSL304",
     "filament_id": "GFL304",

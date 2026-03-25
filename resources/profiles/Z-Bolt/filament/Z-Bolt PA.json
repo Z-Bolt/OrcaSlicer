@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Z-Bolt PA @base",
+    "name": "Z-Bolt PA",
     "inherits": "fdm_filament_pa",
     "from": "system",
     "setting_id": "GFSL400",
