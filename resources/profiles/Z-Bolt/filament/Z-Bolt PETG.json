@@ -5,7 +5,7 @@
     "from": "system",
     "setting_id": "GFSL300",
     "filament_id": "GFL300",
-    "instantiation": "false",
+    "instantiation": "true",
     "filament_vendor": [
         "Z-Bolt"
     ],
