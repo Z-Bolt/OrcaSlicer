@@ -6,6 +6,8 @@
     "setting_id": "GFSL200",
     "filament_id": "GFL200",
     "instantiation": "true",
+    "compatible_printers": [
+    ],
     "filament_vendor": [
         "Z-Bolt"
     ],
