@@ -1,0 +1,83 @@
+{
+    "type": "filament",
+    "name": "U3 TECHNO 6C CF30 @0.6 nozzle",
+    "inherits": "Generic PA @System",
+    "from": "system",
+    "setting_id": "GFSL702",
+    "filament_id": "GFL702",
+    "instantiation": "true",
+    "chamber_temperature": [
+        "90"
+    ],
+    "filament_cost": [
+        "2718"
+    ],
+    "filament_density": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_notes": [
+        "Сушка: 4 часа при 100 градусах"
+    ],
+    "filament_settings_id": [
+        "U3 TECHNO 6C CFF30 @S300"
+    ],
+    "filament_shrink": [
+        "99.75%"
+    ],
+    "filament_shrinkage_compensation_z": [
+        "98.78%"
+    ],
+    "filament_vendor": [
+        "U3Print"
+    ],
+    "filament_type": [
+        "PA-CF"
+    ],
+    "hot_plate_temp": [
+        "160"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "160"
+    ],
+    "inherits_note": [
+        "Base tuning from Generic PA @System"
+    ],
+    "nozzle_temperature": [
+        "285"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "285"
+    ],
+    "support_material_interface_fan_speed": [
+        "30"
+    ],
+    "temperature_vitrification": [
+        "200"
+    ],
+    "textured_plate_temp": [
+        "130"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "130"
+    ],
+    "compatible_printers": [
+        "Z-Bolt S300 0.6 nozzle",
+        "Z-Bolt S300 Dual 0.6 nozzle",
+        "Z-Bolt S400 0.6 nozzle",
+        "Z-Bolt S400 Dual 0.6 nozzle",
+        "Z-Bolt S600 0.6 nozzle",
+        "Z-Bolt S600 Dual 0.6 nozzle",
+        "Z-Bolt S800 Dual 0.6 nozzle",
+        "Z-Bolt S1000 0.6 nozzle",
+        "Z-Bolt S1000 Dual 0.6 nozzle"
+    ],
+    "compatible_prints": [
+        "0.16mm Standard @U3 TECHNO 6C CF30",
+        "0.20mm Standard @U3 TECHNO 6C CF30",
+        "0.24mm Standard @U3 TECHNO 6C CF30",
+        "0.30mm Standard @U3 TECHNO 6C CF30"
+    ]
+}

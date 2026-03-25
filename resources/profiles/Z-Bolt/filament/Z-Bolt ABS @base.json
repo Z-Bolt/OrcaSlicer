@@ -6,6 +6,9 @@
     "setting_id": "GFSL200",
     "filament_id": "GFL200",
     "instantiation": "false",
+    "filament_vendor": [
+        "Z-Bolt"
+    ],
     "filament_max_volumetric_speed": [
         "20"
     ],
@@ -19,10 +22,10 @@
         "110"
     ],
     "nozzle_temperature": [
-        "250"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "250"
+        "260"
     ],
     "textured_plate_temp": [
         "110"
