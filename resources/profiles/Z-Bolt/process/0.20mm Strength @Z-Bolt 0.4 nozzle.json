@@ -1,6 +1,7 @@
 {
     "type": "process",
-    "name": "0.20mm Strength @Z-Bolt S300",
+    "name": "0.20mm Strength @Z-Bolt 0.4 nozzle",
+    "renamed_from": "0.20mm Strength @Z-Bolt S300;0.20mm Strength @Z-Bolt S400;0.20mm Strength @Z-Bolt S600;0.20mm Strength @Z-Bolt S800",
     "inherits": "fdm_process_zbolt_0.20",
     "from": "system",
     "setting_id": "GP012",
@@ -13,6 +14,13 @@
     "wall_loops": "6",
     "compatible_printers": [
         "Z-Bolt S300 0.4 nozzle",
-        "Z-Bolt S300 Dual 0.4 nozzle"
+        "Z-Bolt S300 Dual 0.4 nozzle",
+        "Z-Bolt S400 0.4 nozzle",
+        "Z-Bolt S400 Dual 0.4 nozzle",
+        "Z-Bolt S600 0.4 nozzle",
+        "Z-Bolt S600 Dual 0.4 nozzle",
+        "Z-Bolt S800 Dual 0.4 nozzle",
+        "Z-Bolt S1000 0.4 nozzle",
+        "Z-Bolt S1000 Dual 0.4 nozzle"
     ]
 }

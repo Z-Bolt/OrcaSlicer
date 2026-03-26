@@ -20,23 +20,23 @@
         "0x600"
     ],
     "default_filament_profile": [
-        "Z-Bolt Generic PLA"
+        "Z-Bolt PLA"
     ],
     "default_print_profile": "0.20mm Standard @Z-Bolt S600",
     "extruder_colour": [
         "#018001"
     ],
     "machine_max_acceleration_e": [
-        "5000",
-        "5000"
+        "1500",
+        "1500"
     ],
     "machine_max_acceleration_extruding": [
-        "20000",
-        "20000"
+        "2500",
+        "2500"
     ],
     "machine_max_acceleration_retracting": [
-        "5000",
-        "5000"
+        "1500",
+        "1500"
     ],
     "machine_max_acceleration_travel": [
         "9000",
@@ -51,8 +51,8 @@
         "20000"
     ],
     "machine_max_acceleration_z": [
-        "500",
-        "200"
+        "12",
+        "12"
     ],
     "machine_max_speed_e": [
         "30",
@@ -110,7 +110,7 @@
         "0%"
     ],
     "retraction_length": [
-        "0.8"
+        "0.6"
     ],
     "retract_length_toolchange": [
         "2"

@@ -20,7 +20,7 @@
         "0x300"
     ],
     "default_filament_profile": [
-        "Z-Bolt Generic PLA"
+        "Z-Bolt PLA"
     ],
     "default_print_profile": "0.20mm Standard @Z-Bolt S300",
     "extruder_colour": [
@@ -51,8 +51,8 @@
         "20000"
     ],
     "machine_max_acceleration_z": [
-        "500",
-        "200"
+        "100",
+        "100"
     ],
     "machine_max_speed_e": [
         "30",
@@ -110,7 +110,7 @@
         "0%"
     ],
     "retraction_length": [
-        "0.8"
+        "0.6"
     ],
     "retract_length_toolchange": [
         "2"

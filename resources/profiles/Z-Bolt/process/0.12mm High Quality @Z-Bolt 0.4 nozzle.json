@@ -1,6 +1,7 @@
 {
     "type": "process",
-    "name": "0.12mm High Quality @Z-Bolt S300",
+    "name": "0.12mm High Quality @Z-Bolt 0.4 nozzle",
+    "renamed_from": "0.12mm High Quality @Z-Bolt S300;0.12mm High Quality @Z-Bolt S400;0.12mm High Quality @Z-Bolt S600;0.12mm High Quality @Z-Bolt S800",
     "inherits": "fdm_process_zbolt_0.12",
     "from": "system",
     "setting_id": "GP006",
@@ -19,6 +20,13 @@
     "overhang_totally_speed": "50",
     "compatible_printers": [
         "Z-Bolt S300 0.4 nozzle",
-        "Z-Bolt S300 Dual 0.4 nozzle"
+        "Z-Bolt S300 Dual 0.4 nozzle",
+        "Z-Bolt S400 0.4 nozzle",
+        "Z-Bolt S400 Dual 0.4 nozzle",
+        "Z-Bolt S600 0.4 nozzle",
+        "Z-Bolt S600 Dual 0.4 nozzle",
+        "Z-Bolt S800 Dual 0.4 nozzle",
+        "Z-Bolt S1000 0.4 nozzle",
+        "Z-Bolt S1000 Dual 0.4 nozzle"
     ]
 }
