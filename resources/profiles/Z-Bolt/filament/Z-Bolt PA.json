@@ -35,9 +35,6 @@
         "Z-Bolt S1000 0.8 nozzle",
         "Z-Bolt S1000 Dual 0.8 nozzle"
     ],
-    "filament_vendor": [
-        "Z-Bolt"
-    ],
     "filament_max_volumetric_speed": [
         "8"
     ],
