@@ -20,7 +20,7 @@
         "0x400"
     ],
     "default_filament_profile": [
-        "Z-Bolt PLA"
+        "Generic PLA @Z-Bolt"
     ],
     "default_print_profile": "0.20mm Standard @Z-Bolt S400",
     "extruder_colour": [
