@@ -2,6 +2,7 @@
     "type": "filament",
     "name": "Generic ABS HT @Z-Bolt",
     "inherits": "Generic ABS @Z-Bolt",
+    "renamed_from": "Z-Bolt ABS HT",
     "from": "system",
     "setting_id": "GFSL500",
     "filament_id": "GFL500",
