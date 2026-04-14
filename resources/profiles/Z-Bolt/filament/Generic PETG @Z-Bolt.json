@@ -1,7 +1,7 @@
 {
     "type": "filament",
     "name": "Generic PETG @Z-Bolt",
-    "inherits": "Generic PETG @System",
+    "inherits": "fdm_filament_pet",
     "compatible_printers": [
         "Z-Bolt S300 0.4 nozzle",
         "Z-Bolt S300 Dual 0.4 nozzle",

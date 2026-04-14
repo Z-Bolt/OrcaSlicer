@@ -1,7 +1,7 @@
 {
     "type": "filament",
     "name": "Generic PLA @Z-Bolt",
-    "inherits": "Generic PLA @System",
+    "inherits": "fdm_filament_pla",
     "compatible_printers": [
         "Z-Bolt S300 0.4 nozzle",
         "Z-Bolt S300 Dual 0.4 nozzle",

@@ -1,7 +1,7 @@
 {
     "type": "filament",
     "name": "Generic ABS @Z-Bolt",
-    "inherits": "Generic ABS @System",
+    "inherits": "fdm_filament_abs",
     "compatible_printers": [
         "Z-Bolt S300 0.4 nozzle",
         "Z-Bolt S300 Dual 0.4 nozzle",
