@@ -2,6 +2,10 @@
     "type": "filament",
     "name": "Generic PA @Z-Bolt",
     "inherits": "fdm_filament_pa",
+    "from": "system",
+    "setting_id": "GFSL400",
+    "filament_id": "GFL400",
+    "instantiation": "true",
     "compatible_printers": [
         "Z-Bolt S300 0.4 nozzle",
         "Z-Bolt S300 Dual 0.4 nozzle",

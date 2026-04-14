@@ -2,6 +2,10 @@
     "type": "filament",
     "name": "Generic PLA @Z-Bolt 0.6 nozzle",
     "inherits": "Generic PLA @Z-Bolt",
+    "from": "system",
+    "setting_id": "GFSL106",
+    "filament_id": "GFL106",
+    "instantiation": "true",
     "filament_max_volumetric_speed": [
         "18"
     ],

@@ -2,6 +2,10 @@
     "type": "filament",
     "name": "Generic ABS HT @Z-Bolt 0.4 nozzle",
     "inherits": "Generic ABS HT @Z-Bolt",
+    "from": "system",
+    "setting_id": "GFSL504",
+    "filament_id": "GFL504",
+    "instantiation": "true",
     "filament_max_volumetric_speed": [
         "15"
     ],

@@ -2,6 +2,10 @@
     "type": "filament",
     "name": "Generic PETG @Z-Bolt 0.4 nozzle",
     "inherits": "Generic PETG @Z-Bolt",
+    "from": "system",
+    "setting_id": "GFSL304",
+    "filament_id": "GFL304",
+    "instantiation": "true",
     "filament_max_volumetric_speed": [
         "8"
     ],
