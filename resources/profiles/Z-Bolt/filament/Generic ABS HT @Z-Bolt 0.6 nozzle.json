@@ -1,7 +1,8 @@
 {
     "type": "filament",
-    "name": "Z-Bolt ABS HT @0.6 nozzle",
-    "inherits": "Z-Bolt ABS HT",
+    "name": "Generic ABS HT @Z-Bolt 0.6 nozzle",
+    "inherits": "Generic ABS HT @Z-Bolt",
+    "renamed_from": "Z-Bolt ABS HT @0.6 nozzle",
     "from": "system",
     "setting_id": "GFSL506",
     "filament_id": "GFL506",

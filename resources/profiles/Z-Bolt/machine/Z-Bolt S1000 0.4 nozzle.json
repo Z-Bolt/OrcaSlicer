@@ -20,7 +20,7 @@
         "0x1000"
     ],
     "default_filament_profile": [
-        "Z-Bolt PLA"
+        "Generic PLA @Z-Bolt"
     ],
     "default_print_profile": "0.20mm Standard @Z-Bolt S1000",
     "extruder_colour": [
@@ -129,5 +129,7 @@
     "support_chamber_temp_control": "1",
     "machine_start_gcode": "START_PRINT T_BED=[bed_temperature_initial_layer] T_EXTRUDER=[nozzle_temperature_initial_layer] T_CHAMBER=[chamber_temperature]",
     "machine_end_gcode": "END_PRINT T_BED=[bed_temperature] T_CHAMBER=[chamber_temperature] COOLDOWN_TIME=120",
-    "machine_pause_gcode": "PAUSE"
+    "machine_pause_gcode": "PAUSE",
+    "thumbnails": "144x144/PNG,900x900/PNG",
+    "thumbnails_format": "PNG"
 }
