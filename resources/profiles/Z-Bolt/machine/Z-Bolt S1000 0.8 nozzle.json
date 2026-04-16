@@ -26,5 +26,7 @@
     ],
     "retraction_minimum_travel": [
         "3"
-    ]
+    ],
+    "thumbnails": "144x144/PNG,900x900/PNG",
+    "thumbnails_format": "PNG"
 }

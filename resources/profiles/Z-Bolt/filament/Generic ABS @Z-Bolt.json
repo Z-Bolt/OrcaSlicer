@@ -1,7 +1,8 @@
 {
     "type": "filament",
-    "name": "Z-Bolt ABS",
+    "name": "Generic ABS @Z-Bolt",
     "inherits": "fdm_filament_abs",
+    "renamed_from": "Z-Bolt ABS",
     "from": "system",
     "setting_id": "GFSL200",
     "filament_id": "GFL200",
@@ -34,9 +35,6 @@
         "Z-Bolt S800 Dual 0.8 nozzle",
         "Z-Bolt S1000 0.8 nozzle",
         "Z-Bolt S1000 Dual 0.8 nozzle"
-    ],
-    "filament_vendor": [
-        "Z-Bolt"
     ],
     "filament_max_volumetric_speed": [
         "20"

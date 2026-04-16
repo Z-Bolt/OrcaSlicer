@@ -1,13 +1,14 @@
 {
     "type": "filament",
-    "name": "Z-Bolt PA @0.6 nozzle",
-    "inherits": "Z-Bolt PA",
+    "name": "Generic ABS @Z-Bolt 0.6 nozzle",
+    "inherits": "Generic ABS @Z-Bolt",
+    "renamed_from": "Z-Bolt ABS @0.6 nozzle",
     "from": "system",
-    "setting_id": "GFSL406",
-    "filament_id": "GFL406",
+    "setting_id": "GFSL206",
+    "filament_id": "GFL206",
     "instantiation": "true",
     "filament_max_volumetric_speed": [
-        "10"
+        "18"
     ],
     "compatible_printers": [
         "Z-Bolt S300 0.6 nozzle",

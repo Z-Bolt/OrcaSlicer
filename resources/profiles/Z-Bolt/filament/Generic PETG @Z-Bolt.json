@@ -1,10 +1,11 @@
 {
     "type": "filament",
-    "name": "Z-Bolt PLA",
-    "inherits": "fdm_filament_pla",
+    "name": "Generic PETG @Z-Bolt",
+    "inherits": "fdm_filament_pet",
+    "renamed_from": "Z-Bolt PETG",
     "from": "system",
-    "setting_id": "GFSL100",
-    "filament_id": "GFL100",
+    "setting_id": "GFSL300",
+    "filament_id": "GFL300",
     "instantiation": "true",
     "compatible_printers": [
         "Z-Bolt S300 0.4 nozzle",
@@ -35,34 +36,52 @@
         "Z-Bolt S1000 0.8 nozzle",
         "Z-Bolt S1000 Dual 0.8 nozzle"
     ],
-    "filament_vendor": [
-        "Z-Bolt"
+    "fan_cooling_layer_time": [
+        "30"
     ],
-    "filament_max_volumetric_speed": [
-        "20"
+    "fan_max_speed": [
+        "90"
     ],
     "fan_min_speed": [
-        "100"
+        "45"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
     ],
     "full_fan_speed_layer": [
-        "4"
+        "3"
     ],
-    "hot_plate_temp": [
-        "60"
+    "overhang_fan_speed": [
+        "90"
     ],
-    "hot_plate_temp_initial_layer": [
-        "60"
+    "overhang_fan_threshold": [
+        "10%"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "slow_down_min_speed": [
+        "20"
     ],
     "nozzle_temperature": [
-        "225"
+        "250"
     ],
     "nozzle_temperature_initial_layer": [
-        "225"
+        "250"
+    ],
+    "hot_plate_temp": [
+        "75"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "75"
     ],
     "textured_plate_temp": [
-        "60"
+        "75"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "75"
     ]
 }

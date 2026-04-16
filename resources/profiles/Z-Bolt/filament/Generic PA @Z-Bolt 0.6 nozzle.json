@@ -1,13 +1,14 @@
 {
     "type": "filament",
-    "name": "Z-Bolt PLA @0.6 nozzle",
-    "inherits": "Z-Bolt PLA",
+    "name": "Generic PA @Z-Bolt 0.6 nozzle",
+    "inherits": "Generic PA @Z-Bolt",
+    "renamed_from": "Z-Bolt PA @0.6 nozzle",
     "from": "system",
-    "setting_id": "GFSL106",
-    "filament_id": "GFL106",
+    "setting_id": "GFSL406",
+    "filament_id": "GFL406",
     "instantiation": "true",
     "filament_max_volumetric_speed": [
-        "18"
+        "10"
     ],
     "compatible_printers": [
         "Z-Bolt S300 0.6 nozzle",
