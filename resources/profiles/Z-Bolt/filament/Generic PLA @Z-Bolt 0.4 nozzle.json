@@ -20,5 +20,6 @@
 		"Z-Bolt S800 Dual 0.4 nozzle",
 		"Z-Bolt S1000 0.4 nozzle",
 		"Z-Bolt S1000 Dual 0.4 nozzle"
-	]
+	],
+	"compatible_printers_condition": "printer_model=~/.*Z-Bolt.*/ and nozzle_diameter[0]==0.4"
 }

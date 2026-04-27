@@ -77,5 +77,6 @@
 	],
 	"chamber_temperatures": [
 		"80"
-	]
+	],
+	"compatible_printers_condition": "printer_model=~/.*Z-Bolt.*/"
 }

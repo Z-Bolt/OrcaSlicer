@@ -83,5 +83,6 @@
 	],
 	"textured_plate_temp_initial_layer": [
 		"75"
-	]
+	],
+	"compatible_printers_condition": "printer_model=~/.*Z-Bolt.*/"
 }
