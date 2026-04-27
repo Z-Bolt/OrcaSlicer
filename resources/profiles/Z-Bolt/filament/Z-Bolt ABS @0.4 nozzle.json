@@ -1,8 +1,8 @@
 {
 	"type": "filament",
-	"name": "Generic ABS @Z-Bolt 0.4 nozzle",
-	"inherits": "Generic ABS @Z-Bolt@",
-	"renamed_from": "Generic ABS @Z-Bolt 0.4 nozzle",
+	"name": "Z-Bolt ABS @0.4 nozzle",
+	"inherits": "Z-Bolt ABS",
+	"renamed_from": "Generic ABS @0.4 nozzle",
 	"from": "system",
 	"setting_id": "GFSL204",
 	"filament_id": "GFL204",
@@ -11,15 +11,14 @@
 		"15"
 	],
 	"compatible_printers": [
+		"Z-Bolt S1000 0.4 nozzle",
+		"Z-Bolt S1000 Dual 0.4 nozzle",
 		"Z-Bolt S300 0.4 nozzle",
 		"Z-Bolt S300 Dual 0.4 nozzle",
 		"Z-Bolt S400 0.4 nozzle",
 		"Z-Bolt S400 Dual 0.4 nozzle",
 		"Z-Bolt S600 0.4 nozzle",
 		"Z-Bolt S600 Dual 0.4 nozzle",
-		"Z-Bolt S800 Dual 0.4 nozzle",
-		"Z-Bolt S1000 0.4 nozzle",
-		"Z-Bolt S1000 Dual 0.4 nozzle"
-	],
-	"compatible_printers_condition": "printer_model=~/.*Z-Bolt.*/ and nozzle_diameter[0]==0.4"
+		"Z-Bolt S800 Dual 0.4 nozzle"
+	]
 }
