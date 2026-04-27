@@ -2,7 +2,7 @@
 	"type": "filament",
 	"name": "Generic ABS @Z-Bolt@",
 	"inherits": "fdm_filament_abs",
-	"renamed_from": "Z-Bolt ABS",
+	"renamed_from": "Generic ABS @Z-Bolt",
 	"from": "system",
 	"setting_id": "GFSL200",
 	"filament_id": "GFL200",

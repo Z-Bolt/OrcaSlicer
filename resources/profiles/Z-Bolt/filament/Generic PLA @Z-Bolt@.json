@@ -2,7 +2,7 @@
 	"type": "filament",
 	"name": "Generic PLA @Z-Bolt@",
 	"inherits": "fdm_filament_pla",
-	"renamed_from": "Z-Bolt PLA",
+	"renamed_from": "Generic PLA @Z-Bolt",
 	"from": "system",
 	"setting_id": "GFSL100",
 	"filament_id": "GFL100",
