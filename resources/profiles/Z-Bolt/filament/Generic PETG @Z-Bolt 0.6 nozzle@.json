@@ -1,14 +1,14 @@
 {
 	"type": "filament",
-	"name": "Generic ABS HT @Z-Bolt 0.6 nozzle",
-	"inherits": "Generic ABS HT @Z-Bolt",
-	"renamed_from": "Z-Bolt ABS HT @0.6 nozzle",
+	"name": "Generic PETG @Z-Bolt 0.6 nozzle@",
+	"inherits": "Generic PETG @Z-Bolt",
+	"renamed_from": "Z-Bolt PETG @0.6 nozzle",
 	"from": "system",
-	"setting_id": "GFSL506",
-	"filament_id": "GFL506",
+	"setting_id": "GFSL306",
+	"filament_id": "GFL306",
 	"instantiation": "true",
 	"filament_max_volumetric_speed": [
-		"18"
+		"10"
 	],
 	"compatible_printers": [
 		"Z-Bolt S300 0.6 nozzle",

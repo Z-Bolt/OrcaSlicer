@@ -1,14 +1,14 @@
 {
 	"type": "filament",
-	"name": "Generic ABS @Z-Bolt 0.4 nozzle",
-	"inherits": "Generic ABS @Z-Bolt",
-	"renamed_from": "Z-Bolt ABS @0.4 nozzle",
+	"name": "Generic PETG @Z-Bolt 0.4 nozzle@",
+	"inherits": "Generic PETG @Z-Bolt",
+	"renamed_from": "Z-Bolt PETG @0.4 nozzle",
 	"from": "system",
-	"setting_id": "GFSL204",
-	"filament_id": "GFL204",
+	"setting_id": "GFSL304",
+	"filament_id": "GFL304",
 	"instantiation": "true",
 	"filament_max_volumetric_speed": [
-		"15"
+		"8"
 	],
 	"compatible_printers": [
 		"Z-Bolt S300 0.4 nozzle",

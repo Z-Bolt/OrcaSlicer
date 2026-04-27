@@ -14,6 +14,9 @@
 	],
 	"printer_model": "Z-Bolt S1000 Dual",
 	"printer_variant": "0.4",
+	"default_filament_profile": [
+		"Generic PLA @Z-Bolt 0.4 nozzle@"
+	],
 	"default_print_profile": "0.20mm Standard @Z-Bolt S1000",
 	"max_layer_height": [
 		"0.28"

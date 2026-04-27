@@ -1,11 +1,11 @@
 {
 	"type": "filament",
-	"name": "Generic ABS @Z-Bolt",
-	"inherits": "fdm_filament_abs",
-	"renamed_from": "Z-Bolt ABS",
+	"name": "Generic PA @Z-Bolt@",
+	"inherits": "fdm_filament_pa",
+	"renamed_from": "Z-Bolt PA",
 	"from": "system",
-	"setting_id": "GFSL200",
-	"filament_id": "GFL200",
+	"setting_id": "GFSL400",
+	"filament_id": "GFL400",
 	"instantiation": "true",
 	"compatible_printers": [
 		"Z-Bolt S300 0.4 nozzle",
@@ -37,27 +37,45 @@
 		"Z-Bolt S1000 Dual 0.8 nozzle"
 	],
 	"filament_max_volumetric_speed": [
-		"20"
+		"8"
+	],
+	"fan_cooling_layer_time": [
+		"5"
+	],
+	"fan_max_speed": [
+		"30"
 	],
 	"fan_min_speed": [
-		"25"
+		"10"
+	],
+	"filament_flow_ratio": [
+		"0.96"
+	],
+	"overhang_fan_speed": [
+		"30"
+	],
+	"overhang_fan_threshold": [
+		"0%"
 	],
 	"hot_plate_temp": [
-		"110"
+		"140"
 	],
 	"hot_plate_temp_initial_layer": [
-		"110"
+		"140"
 	],
 	"nozzle_temperature": [
-		"260"
+		"270"
 	],
 	"nozzle_temperature_initial_layer": [
-		"260"
+		"270"
 	],
 	"textured_plate_temp": [
-		"110"
+		"130"
 	],
 	"textured_plate_temp_initial_layer": [
-		"110"
+		"140"
+	],
+	"chamber_temperatures": [
+		"80"
 	]
 }

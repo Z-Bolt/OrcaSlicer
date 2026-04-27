@@ -1,14 +1,14 @@
 {
 	"type": "filament",
-	"name": "Generic PA @Z-Bolt 0.4 nozzle",
-	"inherits": "Generic PA @Z-Bolt",
-	"renamed_from": "Z-Bolt PA @0.4 nozzle",
+	"name": "Generic ABS @Z-Bolt 0.4 nozzle@",
+	"inherits": "Generic ABS @Z-Bolt",
+	"renamed_from": "Z-Bolt ABS @0.4 nozzle",
 	"from": "system",
-	"setting_id": "GFSL404",
-	"filament_id": "GFL404",
+	"setting_id": "GFSL204",
+	"filament_id": "GFL204",
 	"instantiation": "true",
 	"filament_max_volumetric_speed": [
-		"8"
+		"15"
 	],
 	"compatible_printers": [
 		"Z-Bolt S300 0.4 nozzle",
