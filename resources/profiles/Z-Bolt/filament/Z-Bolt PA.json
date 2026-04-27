@@ -1,6 +1,6 @@
 {
 	"type": "filament",
-	"name": "Generic PA @Z-Bolt",
+	"name": "Z-Bolt PA",
 	"inherits": "fdm_filament_pa",
 	"renamed_from": "Generic PA @Z-Bolt",
 	"from": "system",

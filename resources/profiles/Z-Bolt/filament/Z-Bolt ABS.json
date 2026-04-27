@@ -1,6 +1,6 @@
 {
 	"type": "filament",
-	"name": "Generic ABS @Z-Bolt",
+	"name": "Z-Bolt ABS",
 	"inherits": "fdm_filament_abs",
 	"renamed_from": "Generic ABS @Z-Bolt",
 	"from": "system",
