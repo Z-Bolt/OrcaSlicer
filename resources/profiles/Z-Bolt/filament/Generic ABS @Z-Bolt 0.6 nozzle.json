@@ -1,6 +1,6 @@
 {
 	"type": "filament",
-	"name": "Generic ABS @Z-Bolt 0.6 nozzle@",
+	"name": "Generic ABS @Z-Bolt 0.6 nozzle",
 	"inherits": "Generic ABS @Z-Bolt@",
 	"renamed_from": "Generic ABS @0.6 nozzle",
 	"from": "system",

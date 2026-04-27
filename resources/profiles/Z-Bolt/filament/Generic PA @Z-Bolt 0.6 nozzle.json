@@ -1,6 +1,6 @@
 {
 	"type": "filament",
-	"name": "Generic PA @Z-Bolt 0.6 nozzle@",
+	"name": "Generic PA @Z-Bolt 0.6 nozzle",
 	"inherits": "Generic PA @Z-Bolt@",
 	"renamed_from": "Generic PA @Z-Bolt 0.6 nozzle",
 	"from": "system",

@@ -1,6 +1,6 @@
 {
 	"type": "filament",
-	"name": "Generic PLA @Z-Bolt 0.6 nozzle@",
+	"name": "Generic PLA @Z-Bolt 0.6 nozzle",
 	"inherits": "Generic PLA @Z-Bolt@",
 	"renamed_from": "Generic PLA @Z-Bolt 0.6 nozzle",
 	"from": "system",

@@ -1,6 +1,6 @@
 {
 	"type": "filament",
-	"name": "Generic PETG @Z-Bolt 0.4 nozzle@",
+	"name": "Generic PETG @Z-Bolt 0.4 nozzle",
 	"inherits": "Generic PETG @Z-Bolt@",
 	"renamed_from": "Generic PETG @Z-Bolt 0.4 nozzle",
 	"from": "system",
