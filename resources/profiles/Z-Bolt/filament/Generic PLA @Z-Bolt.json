@@ -1,6 +1,6 @@
 {
 	"type": "filament",
-	"name": "Z-Bolt PLA",
+	"name": "Generic PLA @Z-Bolt",
 	"inherits": "fdm_filament_pla",
 	"renamed_from": "Generic PLA @Z-Bolt",
 	"from": "system",
